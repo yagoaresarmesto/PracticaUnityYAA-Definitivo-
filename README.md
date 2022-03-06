@@ -1,2 +1,2 @@
 # PracticaUnityYAA-Definitivo
- Juego 2D NinjaRevenge (Demo técnica)
+Contiene la build en la Carpeta GameEjecutable, la documentación en NinjaForviden.pdf 
